@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の映画のエンドロールに",
+  "base_artist": "sui",
+  "createdAt": "2026-02-15T08:44:59.851516Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の映画のエンドロールに",
+      "artist": "Sui",
+      "has_synced": false,
+      "path": "select/pl_01_君の映画のエンドロールに_Sui.txt"
+    }
+  ]
+}
